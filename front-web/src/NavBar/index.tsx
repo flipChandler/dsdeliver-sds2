@@ -1,6 +1,6 @@
 import { ReactComponent } from '*.svg';
 import './styles.css';
-import { ReactComponent as Logo} from './logo.svg';
+import { ReactComponent as Logo} from './logo.svg'; // cria tag do React
 
 function NavBar() {
     return (
