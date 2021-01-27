@@ -1,6 +1,6 @@
 .home-container {
     padding-top: 100px;
-    height: calc(110vh - 254px);
+    height: calc(100vh - 252px); /* -254 é o original do Washington */
 } 
 
 .home-container h1 {
